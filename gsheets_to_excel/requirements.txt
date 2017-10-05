@@ -1,0 +1,4 @@
+gdata.egg==info
+httplib2==0.10.3
+google_api_python_client==1.6.4
+gdata==2.0.18
