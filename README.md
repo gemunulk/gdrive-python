@@ -3,6 +3,7 @@
 ### Set up
 This project requires pip to install dependencies. To install dependencies run :  
 ````
+cd /gsheet_to_excel
 pip3 install -r requirements.txt
 ````
 
