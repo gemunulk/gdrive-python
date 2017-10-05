@@ -27,14 +27,14 @@ pip3 install --upgrade google-api-python-client
 
 Ref. [Python Quickstart](https://developers.google.com/drive/v3/web/quickstart/python)
 
-### Set up
+# Set up
 This project requires pip to install dependencies. To install dependencies run :  
 ````
 cd /gsheet_to_excel
 pip3 install -r requirements.txt
 ````
 
-### Execute script 
+# Execute script 
 ````
 cd /gsheet_to_excel
 python3 gsheet_to_excel.py 
